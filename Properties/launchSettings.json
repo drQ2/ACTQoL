@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ACT": {
+      "commandName": "Executable",
+      "executablePath": "$(ACT)\\AnotherCrabsTreasure.exe",
+      "workingDirectory": "$(ACT)"
+    }
+  }
+}
