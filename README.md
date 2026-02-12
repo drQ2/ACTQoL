@@ -69,6 +69,7 @@ If you want to modify the code or build the DLL yourself, follow these steps.
     - Press **M** to verify it is working (check BepInEx console if enabled).
 
 ## ❓ Troubleshooting
+note: icons automatically disappear during combat. You can make them reappear by pausing and unpausing then rescanning
 
 - **"I don't see any icons!"**
   - Press **F5** to force a rescan.
