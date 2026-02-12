@@ -18,7 +18,7 @@ This version was created to solve severe performance issues in the original mod.
 - Displays locations of uncollected items on the map.
 - Automatically hides collected items.
 
-### ⚡ Performance Optimization
+### Performance Optimization
 - **Zero Lag:** Previous versions scanned the entire world every frame, causing massive FPS drops.
 - **Manual Rescan:** The mod now only scans for items when you press **F5**. This eliminates background processing entirely.
 - **Smart Caching:** Item sprites are cached in memory to avoid constant loading.
